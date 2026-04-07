@@ -1,0 +1,9 @@
+{
+  "jei_swift_copy.recipe.json": "复制配方JSON",
+  "jei_swift_copy.item.id": "复制物品ID",
+  "jei_swift_copy.item.info": "KubeJS 物品查询",
+  "jei_swift_copy.item.id.format": "\"%s\"",
+  "jei_swift_copy.message.item.id.success": "以下物品 ID 已复制到剪贴板: %s",
+  "jei_swift_copy.message.recipe.copy.success": "以下配方 JSON 已复制到剪贴板：%s",
+  "jei_swift_copy.message.recipe.copy.failure": "复制配方 JSON 到剪贴板失败，因为配方 ID 未知"
+}

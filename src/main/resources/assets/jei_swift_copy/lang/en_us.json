@@ -1,0 +1,9 @@
+{
+  "jei_swift_copy.recipe.json": "Copy Recipe Json",
+  "jei_swift_copy.item.id": "Copy Item ID",
+  "jei_swift_copy.item.info": "KubeJS Item Info",
+  "jei_swift_copy.item.id.format": "\"%s\"",
+  "jei_swift_copy.message.item.id.success": "The following item ID was copied to the clipboard: %s",
+  "jei_swift_copy.message.recipe.copy.success": "The following recipe JSON was copied to the clipboard: %s",
+  "jei_swift_copy.message.recipe.copy.failure": "Failed to copy the recipe JSON to the clipboard because the ID is unknown"
+}
